@@ -1,4 +1,3 @@
-```markdown
 # Event Invitation 🎉
 
 A simple, clean, and responsive HTML webpage for creating an elegant event invitation. This project demonstrates the use of semantic HTML tags and a well-organized structure without relying on external CSS or JavaScript.
